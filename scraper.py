@@ -1,5 +1,3 @@
-from cgi import print_directory
-from wsgiref import headers
 import requests
 from bs4 import BeautifulSoup
 
